@@ -1,0 +1,4 @@
+name: jakkree prasitvanich
+nickname: jak
+age: 20
+ 
